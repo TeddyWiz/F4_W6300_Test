@@ -1,0 +1,1 @@
+f4_w6300_test\startup_stm32f412zx.o: startup_stm32f412zx.s
